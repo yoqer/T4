@@ -1,0 +1,7 @@
+# Requisitos de Python para el software del robot T4
+numpy
+pyserial # Para comunicación con microcontroladores (Arduino UNO Q)
+paho-mqtt # Para sincronización con el hosting
+python-lorawan # Simulación de la librería LoRaWAN
+tensorflow-lite # Para TinyML (detección de palabra clave)
+logging

@@ -1,0 +1,13 @@
+{
+    "region": "EU868",
+    "frequency_mhz": 868.0,
+    "lora_device_id": "T4_ROBOT_001",
+    "lora_app_key": "YOUR_LORAWAN_APP_KEY",
+    "lora_dev_eui": "YOUR_LORAWAN_DEV_EUI",
+    "available_regions": {
+        "EU868": 868.0,
+        "US915": 915.0,
+        "AS923": 923.0,
+        "AU915": 915.0
+    }
+}
