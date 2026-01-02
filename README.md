@@ -77,8 +77,9 @@ El sistema está listo para conectarse a una plataforma de *hosting* (respaldo e
 ---
 ## 📜 Licencia
 
-Este proyecto se distribuye bajo la **Apache License 2.0**.
-Sin garantías ni responsabilidades, solo para proyectos domesticos, sin necesidad de Seguridad Extra. (No se recomienda en procesos de Identificacion sin Implementar Protocolos de Encriptacion y Seguridad.) 
+Este proyecto se distribuye bajo: **Apache License 2.0**.
+Sin garantías, ni nuestra responsabilidad, solo para proyectos domesticos, sin necesidad de Seguridad.       
+(No se recomienda en procesos de Identificacion sin Implementar Protocolos de Encriptacion y Seguridad.) 
 ---
 ## Referencias
 
