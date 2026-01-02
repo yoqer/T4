@@ -12,6 +12,12 @@ El robot T4 está diseñado para ser un **autómata** con un **Cerebro Integrado
 
 ---
 
+
+![terminator-future-war](https://github.com/user-attachments/assets/7f896f40-7414-4881-8192-0265b8ce7112)
+
+
+
+
 ## 🧠 Arquitectura de Hardware y Cerebro Integrado
 
 El T4 se basa en un diseño modular que permite el uso de varias placas con capacidad de "cerebro integrado".
@@ -72,7 +78,7 @@ El sistema está listo para conectarse a una plataforma de *hosting* (respaldo e
 ## 📜 Licencia
 
 Este proyecto se distribuye bajo la **Apache License 2.0**.
-
+Sin garantías ni responsabilidades, solo para proyectos domesticos, sin necesidad de Seguridad Extra. (No se recomienda en procesos de Identificacion sin Implementar Protocolos de Encriptacion y Seguridad.) 
 ---
 ## Referencias
 
